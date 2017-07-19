@@ -1,0 +1,1 @@
+Esta carpeta contienes lo archivos de estilos, es muy importante aquí será donde coloques tus assets como ficheros css o ficheros javascript
